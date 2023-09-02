@@ -17,6 +17,10 @@ TOOLS
 ![ClientConversion tools](https://github.com/domingosdeeulariadumba/MarketingCampaignPrediction/assets/110714056/bc87284e-4520-4ac6-97ba-630716f80061)
 
 
+REFERENCES
+![ClientConversion references](https://github.com/domingosdeeulariadumba/MarketingCampaignPrediction/assets/110714056/d7b6cca6-ab42-451b-bcd8-7d046b40a9b0)
+
+
 ACKNOWLEDGEMENT
 
 The dataset used in this project comes from UCI Machine Learning Repository.
